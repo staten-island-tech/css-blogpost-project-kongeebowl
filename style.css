@@ -1,64 +1,47 @@
 body{
-    background-image: url(https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/deepwoken2.png);
-    background-repeat: no-repeat;
-    background-attachment: fixed;  
-    background-size: cover;
+    background-color: rgb(106, 108, 109);
 }
 
 .heading{
     text-align: center;
-    font-size: 50px;
+    font-size: 100px;
 }
 
-.flame{
+.blog_flame{
     width: 370px;
     height: 700px;
     border: 16px outset orange;
     border-radius: 12px;
     margin: auto;
+    background-color: rgb(255, 255, 240);
 }
 
-.frost{
+.blog_frost{
     width: 370px;
     height: 700px;
     border: 16px outset rgb(135, 216, 253);
     border-radius: 12px;
     margin: auto;
+    background-color: rgb(255, 255, 240);
 }
 
-.thunder{
+.blog_gale{
     width: 370px;
     height: 700px;
-    border: 16px outset orange;
+    border: 16px outset rgb(138, 182, 146);
     border-radius: 12px;
     margin: auto;
+    background-color: rgb(255, 255, 240);
 }
 
-.gale{
+.blog_img{
     width: 370px;
-    height: 700px;
-    border: 16px outset orange;
-    border-radius: 12px;
-    margin: auto;
 }
 
-.shadow{
-    width: 370px;
-    height: 700px;
-    border: 16px outset orange;
-    border-radius: 12px;
-    margin: auto;
+.blog_text{
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
 }
 
-.iron{
-    width: 370px;
-    height: 700px;
-    border: 16px outset orange;
-    border-radius: 12px;
-    margin: auto;
-}
-
-.attunment_image{
-    width: 370px;
-}
 
