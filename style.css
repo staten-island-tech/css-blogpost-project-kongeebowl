@@ -5,11 +5,22 @@ body{
 .heading{
     text-align: center;
     font-size: 100px;
+    font-family: "Fondamento", cursive;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.heading_text{
+    text-align: center;
+    font-size: 25px;
+    font-family: "Fondamento", cursive;
+    font-weight: 400;
+    font-style: italic;
 }
 
 .blog_flame{
     width: 370px;
-    height: 700px;
+    height: 650px;
     border: 16px outset orange;
     border-radius: 12px;
     margin: auto;
@@ -18,7 +29,7 @@ body{
 
 .blog_frost{
     width: 370px;
-    height: 700px;
+    height: 650px;
     border: 16px outset rgb(135, 216, 253);
     border-radius: 12px;
     margin: auto;
@@ -27,7 +38,7 @@ body{
 
 .blog_gale{
     width: 370px;
-    height: 700px;
+    height: 650px;
     border: 16px outset rgb(138, 182, 146);
     border-radius: 12px;
     margin: auto;
@@ -42,6 +53,8 @@ body{
     text-align: center;
     font-size: 18px;
     padding: 10px;
+    font-family: "Fondamento", cursive;
+    font-weight: 400;
+    font-style: italic;
 }
-
 
