@@ -1,13 +1,17 @@
 body{
-    background-color: rgb(106, 108, 109);
+    background-image: url(https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/deepwoken2.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
 }
 
-.heading{
+#heading{
     text-align: center;
     font-size: 100px;
     font-family: "Fondamento", cursive;
     font-weight: 400;
     font-style: italic;
+    color: white;
 }
 
 .heading_text{
@@ -16,6 +20,7 @@ body{
     font-family: "Fondamento", cursive;
     font-weight: 400;
     font-style: italic;
+    color: white;
 }
 
 .blog_flame{
@@ -47,6 +52,9 @@ body{
 
 .blog_img{
     width: 370px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .blog_text{
